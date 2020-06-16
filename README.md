@@ -7,6 +7,6 @@ OS: Ubuntu 18.04.04 LTS server hwe
 
 OS Packages Required: docker.io
 
-Dockerhub: apnar/nfs-ganesha, apnar/rsync-server, dperson/samba, nginx, uw
+Dockerhub: apnar/nfs-ganesha, apnar/rsync-server, dperson/samba, nginx, prometheus, node_exporter, grafana
 
 Custom docker: 4sci (db4sci/store4sci control)
